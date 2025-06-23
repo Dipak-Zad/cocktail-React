@@ -1,8 +1,11 @@
+import React from "react";
+import MainLayout from "./layouts/MainLayout";
+
 const App = () =>
 {
     return  <>
                 <div className="App">
-                    <h1>My Cocktail App</h1>
+                    <MainLayout/>
                 </div>
             </>
 }
