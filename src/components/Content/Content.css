@@ -1,0 +1,6 @@
+.content {
+  flex: 1;
+  padding: 20px;
+  background-color: #f5f5f5;
+  min-height: 535px; /* default page height even if content is empty */
+}
